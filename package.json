@@ -4,8 +4,6 @@
   "description": "",
   "main": "bamazonCustomer.js",
   "scripts": {
-    "customer": "node bamazonCustomer.js",
-    "manager": "node bamazonManager.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

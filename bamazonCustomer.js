@@ -74,7 +74,7 @@ function handleInput(input) {
             let total = res[0].price * input.amount;
             console.log(`Total: $${total}`);
 
-            // Disconnect to database
+            // Disconnect from database
             connection.end();
         }
     });
